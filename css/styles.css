@@ -1,7 +1,6 @@
 :root {
   --color-body: #434455;
   --brand-color: #ffffff;
-  --hover-order: #404bbf;
   --color-logo: #4d5ae5;
   --color-span: #2e2f42;
 }
@@ -38,20 +37,7 @@ body {
 }
 
 .logo-tip {
-  width: 71px;
-  height: 21px;
-  font-family: "Raleway", sans-serif;
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 21px;
-  display: flex;
-  align-items: center;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: var(--color-span);
-  flex: none;
-  order: 1;
-  flex-grow: 0;
 }
 
 .logo link {
@@ -60,4 +46,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--color-span);
+}
+.logo link:hover .logo link:focus {
+  color: #404bbf;
 }

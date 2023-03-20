@@ -143,9 +143,6 @@ body {
   background-color: #ffffff;
 }
 
-.team-list .team-member {
-  background-color: #ffffff;
-}
 .team-member .team-member-name {
   font-weight: 500;
   font-size: 20px;
@@ -157,4 +154,11 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--color-contacts);
+}
+/* footer */
+.footer {
+  background-color: var(--color-text);
+}
+.footer .logo-footer {
+  color: #f4f4fd;
 }

@@ -126,3 +126,30 @@ body {
   text-transform: capitalize;
   color: var(--color-text);
 }
+/* fourth section */
+.section-team {
+  background-color: #f4f4fd;
+}
+.section-team .title-team {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: var(--color-text);
+}
+
+.team-list .team-member {
+  color: var(--brand-color);
+}
+.team-member .team-member-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--color-text);
+}
+.team-member .team-member-profession {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}

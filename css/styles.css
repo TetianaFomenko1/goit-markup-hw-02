@@ -76,3 +76,30 @@ body {
   letter-spacing: 0.02em;
   color: var(--color-contacts);
 }
+
+/* first section */
+.section-main {
+  background-color: var(--color-text);
+}
+.title {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: var(--brand-color);
+}
+.button-order {
+  background-color: var(--color-logo);
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--brand-color);
+  cursor: pointer;
+}
+
+.button-order:hover,
+.button-order:focus {
+  background-color: #404bbf;
+}

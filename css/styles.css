@@ -5,6 +5,7 @@
 }
 body {
   font-family: "Roboto", sans-serif;
+
   background-color: var(--brand-color);
   color: var(--color-body);
 }
@@ -23,3 +24,35 @@ body {
 }
 
 /* header */
+
+.logo link {
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.7;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.logo-tip link {
+  width: 71px;
+  height: 21px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}

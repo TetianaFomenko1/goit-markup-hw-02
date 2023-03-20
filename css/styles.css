@@ -117,3 +117,12 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
+/* third section */
+.title-activities {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  color: var(--color-text);
+}

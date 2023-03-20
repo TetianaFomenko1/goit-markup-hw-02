@@ -140,7 +140,7 @@ body {
 }
 
 .team-list .team-member {
-  color: #ffffff;
+  background-color: #ffffff;
 }
 .team-member .team-member-name {
   font-weight: 500;

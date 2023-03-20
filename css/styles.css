@@ -44,11 +44,14 @@ body {
 
 /* navigation */
 
-.list-nav .link {
+.list-nav {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.list-nav .link {
+  color: var(--color-text);
 }
 
 /* address */

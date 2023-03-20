@@ -140,7 +140,7 @@ body {
 }
 
 .team-list .team-member {
-  color: var(--brand-color);
+  color: #ffffff;
 }
 .team-member .team-member-name {
   font-weight: 500;
@@ -152,4 +152,5 @@ body {
 .team-member .team-member-profession {
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: var(--color-contacts);
 }

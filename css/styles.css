@@ -139,6 +139,10 @@ body {
   color: var(--color-text);
 }
 
+.section-team .team-list {
+  background-color: #ffffff;
+}
+
 .team-list .team-member {
   background-color: #ffffff;
 }

@@ -51,6 +51,9 @@ body {
   letter-spacing: 0.02em;
   color: var(--color-text);
 }
+.list-nav .link {
+  color: var(--color-text);
+}
 
 /* address */
 

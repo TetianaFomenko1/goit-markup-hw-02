@@ -40,7 +40,7 @@ body {
   color: var(--color-span);
 }
 
-.header-link {
+.list-item {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;

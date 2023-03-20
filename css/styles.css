@@ -59,8 +59,8 @@ body {
   color: #404bbf;
 }
 
-.address-contact .link:hover,
-.address-contact .link:focus {
+.address-list .link:hover,
+.address-list .link:focus {
   color: #404bbf;
 }
 
@@ -68,7 +68,7 @@ body {
   font-style: normal;
 }
 
-.address-contact {
+.address-list .link {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--color-contacts);

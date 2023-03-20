@@ -104,3 +104,16 @@ body {
 .button-order:focus {
   background-color: #404bbf;
 }
+
+/* second section */
+.title-hidden .qualities-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--color-text);
+}
+.title-hidden .qualities-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
